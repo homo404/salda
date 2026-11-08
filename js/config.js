@@ -135,9 +135,9 @@ const CONFIG = {
      language, set `second` and fill the `ar`/second-language strings in
      js/data/i18n.js (and, for right-to-left scripts, set rtl:true). */
   languages: {
-    default:      "ru",
-    defaultLabel: "Русский",
-    second:       { code: "en", rtl: false, label: "En" } /*null*/ 
+    default:      "en",
+    defaultLabel: "en",
+    second:       { code: "ru", rtl: false, label: "ru" } /*null*/ 
     // second: { code: "ar", rtl: true, label: "العربية" }   // example (rtl:true for right-to-left scripts)
   },
 
