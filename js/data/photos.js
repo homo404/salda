@@ -10,7 +10,8 @@ const photoInfo = [
     "lat": 58.067291,
     "lon": 60.739693,
     "caption": "Агитационная площадка ул.Розы Люксембург, д.130",
-    "source_ids": []
+    "source_ids": [],
+    "taken_at": "1975"
   }
 ];
 
