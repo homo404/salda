@@ -9,6 +9,6 @@ lat: null
 lon: null
 bearing: null
 fov: null
-taken_at: ''
+taken_at: '1975'
 sources: []
 ---
