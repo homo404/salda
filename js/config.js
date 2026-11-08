@@ -36,7 +36,7 @@ const CONFIG = {
 
     // Public address of the deployed site. Used by permalinks in citations and
     // the KML export. Set automatically when you create a map through MIRL Map.
-    baseUrl:  "https://YOUR-USER.github.io/mirl-map/",   // EDIT ME (trailing slash)
+    baseUrl:  "https://homo404.github.io/salda/",   // EDIT ME (trailing slash)
 
     // Social-preview + SEO. These also live as <meta> tags in index.html and
     // gallery.html, which is what social/link crawlers actually read.

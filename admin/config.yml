@@ -13,7 +13,7 @@
 
 backend:
   name: github
-  repo: YOUR-USER/mirl-map                               # EDIT ME: your GitHub "owner/repo"
+  repo: homo404/salda                               # EDIT ME: your GitHub "owner/repo"
   branch: main
   base_url: https://mirl-map-auth.mirl-ucsb.workers.dev  # MIRL's shared login helper (leave as-is)
 
