@@ -150,17 +150,17 @@ const CONFIG = {
     sources:          true,    // citation tokens [ABC] + the Sources colophon (js/data/sources.js)
     sightlines:       true,    // camera view-cones from photo bearing+fov
     search:           true,    // full-text search across captions + narratives
-    kmlExport:        true,    // "Download .kml" for Google Earth
+    kmlExport:        false,    // "Download .kml" for Google Earth
     miniMap:          true,    // the locator inset (also see miniMap.enabled)
     gallery:          true,    // the photo-essay page (gallery.html)
-    wander:           true,    // "Wander", jump to a random photo
-    intro:            true,    // the opening intro/about splash
+    wander:           false,    // "Wander", jump to a random photo
+    intro:            false,    // the opening intro/about splash
     lightbox:         true,    // full-size photo overlay
 
     // Off by default (domain-specific; add data, then flip on)
     landmarks:        false,   // named points of interest (js/data/landmarks.js)
-    timeline:         false,   // js/data/timeline.js
-    statistics:       false,   // js/data/stats.js
+    timeline:         true,   // js/data/timeline.js
+    statistics:       true,   // js/data/stats.js
     testimonies:      false,   // first-person voice pins (js/data/testimonies.js)
     historicalPhotos: false,   // before/after archival pins (js/data/matson.js)
     compare:          false,   // side-by-side layer compare (needs historicalLayers)
