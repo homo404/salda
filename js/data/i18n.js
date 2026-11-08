@@ -22,7 +22,7 @@ var siteI18N = {
   "head.sub":        { en: "A documentary map", ru: "Историческая карта" },
 
   /* Navigation / top bar */
-  "nav.layers":      { en: "Layers", ru: "Слои" },
+  "nav.layers":      { ru: "Слои", en: "Layers" },
   "nav.search":      { en: "Search", ru: "Поиск" },
   "nav.wander":      { en: "Wander", ru: "Случайное фото" },
   "nav.gallery":     { en: "Gallery", ru: "Галерея" },
