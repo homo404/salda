@@ -9,7 +9,7 @@ const photoInfo = [
     "file": "vcsU3qieJeMkQ0lj9a_NdAD6Nd0Iul1__DOKVBUuwSDFa95-CtacqjEmQUiiZPb1KiQwAHiQtMGmRu0lHeI9_g5k.jpg",
     "lat": 58.067291,
     "lon": 60.739693,
-    "caption": "Агитационная площадка ул.розы Люксембург, д.130",
+    "caption": "Агитационная площадка ул.Розы Люксембург, д.130",
     "source_ids": []
   }
 ];
