@@ -7,7 +7,7 @@ order: 1
 location: '{"type":"Point","coordinates":[60.739693,58.067291]}'
 lat: null
 lon: null
-bearing: null
+bearing: 90
 fov: 10
 taken_at: '1975'
 sources: []
